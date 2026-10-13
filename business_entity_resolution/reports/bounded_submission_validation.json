@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "mode": "Unchanged organizer per-file validation functions in bounded batches; global exact coverage and duplicates checked before partitioning",
+  "references": 1732544,
+  "batches": 24,
+  "batch_size": 75000,
+  "all_target_ids_checked": true,
+  "all_final_matches_in_candidates": true,
+  "organizer_sha256": "f96f59934383a15095914f507620c078c474e8f9c60e864b2d051ed173a22dfc",
+  "output_sha256": {
+    "matching_results.tsv": "4afe286c67ed128eea77e81a0541252a8890f05fdbd1f64905490a3a775cbe5e",
+    "candidate_pairs.tsv": "5f6d9d51109473f389ce398c68d9f00c139c1099ebb65ce732f64a0f770379da"
+  },
+  "peak_rss_mib": 1469.3984375
+}

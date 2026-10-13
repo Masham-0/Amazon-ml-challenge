@@ -1,0 +1,19 @@
+{
+  "primary_references": 20,
+  "context_references": 812,
+  "full_pairs": 29308,
+  "context_pairs": 29151,
+  "primary_pairs": 627,
+  "primary_candidates_identical": true,
+  "primary_base_features_identical": true,
+  "maximum_primary_probability_error": 0.0,
+  "primary_final_decisions_identical": true,
+  "labels_used": false,
+  "single_pass_comparison": {
+    "pairs": 3957,
+    "maximum_probability_difference_in_shared_pairs": 0.25520649552345276,
+    "shared_pairs_with_probability_difference_above_1e_6": 672,
+    "primary_decisions_differing_from_full_context": 0,
+    "note": "No truth labels used; this measures context differences, not their direction of score bias."
+  }
+}

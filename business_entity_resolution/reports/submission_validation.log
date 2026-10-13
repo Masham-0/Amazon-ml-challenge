@@ -1,0 +1,88 @@
+All source IDs loaded: 1732544 references; 9969589 targets
+  matching_results.tsv: 75000 rows (4112 empty, 70888 non-empty).
+  candidate_pairs.tsv: 75000 rows (1 empty, 74999 non-empty).
+Validated 75000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (3992 empty, 71008 non-empty).
+  candidate_pairs.tsv: 75000 rows (1 empty, 74999 non-empty).
+Validated 150000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (3919 empty, 71081 non-empty).
+  candidate_pairs.tsv: 75000 rows (0 empty, 75000 non-empty).
+Validated 225000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4275 empty, 70725 non-empty).
+  candidate_pairs.tsv: 75000 rows (1 empty, 74999 non-empty).
+Validated 300000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4458 empty, 70542 non-empty).
+  candidate_pairs.tsv: 75000 rows (4 empty, 74996 non-empty).
+Validated 375000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4512 empty, 70488 non-empty).
+  candidate_pairs.tsv: 75000 rows (1 empty, 74999 non-empty).
+Validated 450000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4673 empty, 70327 non-empty).
+  candidate_pairs.tsv: 75000 rows (1 empty, 74999 non-empty).
+Validated 525000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4502 empty, 70498 non-empty).
+  candidate_pairs.tsv: 75000 rows (1 empty, 74999 non-empty).
+Validated 600000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4530 empty, 70470 non-empty).
+  candidate_pairs.tsv: 75000 rows (2 empty, 74998 non-empty).
+Validated 675000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4548 empty, 70452 non-empty).
+  candidate_pairs.tsv: 75000 rows (2 empty, 74998 non-empty).
+Validated 750000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4492 empty, 70508 non-empty).
+  candidate_pairs.tsv: 75000 rows (3 empty, 74997 non-empty).
+Validated 825000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4529 empty, 70471 non-empty).
+  candidate_pairs.tsv: 75000 rows (2 empty, 74998 non-empty).
+Validated 900000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4397 empty, 70603 non-empty).
+  candidate_pairs.tsv: 75000 rows (2 empty, 74998 non-empty).
+Validated 975000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4529 empty, 70471 non-empty).
+  candidate_pairs.tsv: 75000 rows (0 empty, 75000 non-empty).
+Validated 1050000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4364 empty, 70636 non-empty).
+  candidate_pairs.tsv: 75000 rows (1 empty, 74999 non-empty).
+Validated 1125000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4386 empty, 70614 non-empty).
+  candidate_pairs.tsv: 75000 rows (3 empty, 74997 non-empty).
+Validated 1200000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4508 empty, 70492 non-empty).
+  candidate_pairs.tsv: 75000 rows (1 empty, 74999 non-empty).
+Validated 1275000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4351 empty, 70649 non-empty).
+  candidate_pairs.tsv: 75000 rows (1 empty, 74999 non-empty).
+Validated 1350000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4473 empty, 70527 non-empty).
+  candidate_pairs.tsv: 75000 rows (2 empty, 74998 non-empty).
+Validated 1425000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4398 empty, 70602 non-empty).
+  candidate_pairs.tsv: 75000 rows (0 empty, 75000 non-empty).
+Validated 1500000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4427 empty, 70573 non-empty).
+  candidate_pairs.tsv: 75000 rows (0 empty, 75000 non-empty).
+Validated 1575000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4402 empty, 70598 non-empty).
+  candidate_pairs.tsv: 75000 rows (0 empty, 75000 non-empty).
+Validated 1650000 / 1732544 references with all target ID checks
+  matching_results.tsv: 75000 rows (4411 empty, 70589 non-empty).
+  candidate_pairs.tsv: 75000 rows (0 empty, 75000 non-empty).
+Validated 1725000 / 1732544 references with all target ID checks
+  matching_results.tsv: 7544 rows (414 empty, 7130 non-empty).
+  candidate_pairs.tsv: 7544 rows (0 empty, 7544 non-empty).
+Validated 1732544 / 1732544 references with all target ID checks
+{
+  "passed": true,
+  "mode": "Unchanged organizer per-file validation functions in bounded batches; global exact coverage and duplicates checked before partitioning",
+  "references": 1732544,
+  "batches": 24,
+  "batch_size": 75000,
+  "all_target_ids_checked": true,
+  "all_final_matches_in_candidates": true,
+  "organizer_sha256": "f96f59934383a15095914f507620c078c474e8f9c60e864b2d051ed173a22dfc",
+  "output_sha256": {
+    "matching_results.tsv": "4afe286c67ed128eea77e81a0541252a8890f05fdbd1f64905490a3a775cbe5e",
+    "candidate_pairs.tsv": "5f6d9d51109473f389ce398c68d9f00c139c1099ebb65ce732f64a0f770379da"
+  },
+  "peak_rss_mib": 1469.3984375
+}

@@ -1,0 +1,22 @@
+{
+  "test_reference_entities": 1732544,
+  "scored_candidate_pairs": 23454052,
+  "mean_candidates_per_reference": 13.537348546414982,
+  "median_candidates_per_reference": 11.0,
+  "p95_candidates_per_reference": 28.0,
+  "final_matches": 5815085,
+  "predicted_singletons": 101602,
+  "threshold": 0.6199999999999999,
+  "adaptive_thresholds": {
+    "first_match": 0.7,
+    "additional_matches": 0.75
+  },
+  "model_hashes": {
+    "config.json": "d99d8b62ebedc89747d048a99208137ba3ae30f8f385aa4022baba1e688221cb",
+    "aliases.tsv": "31a8a21fad0d2ecd76510124e8495aee1b2db5409d081e9bcfc2c44d2c66d8e8",
+    "fold0.model.txt": "7a221fd4890a709405540e533017c0d20e232d00a259bd78cc417c29f172d383",
+    "fold1.model.txt": "f2a41d06489457215e2d73e5cdb020ca13d9b33202aecad3012fc99bdc988639",
+    "fold2.model.txt": "416c23a754a399718629a882a052adef84236811f6b479aed4176de1f4b38ea6",
+    "collective_model.txt": "e442bed1ce44f5ddcd582e55d930092804efac430e7e04f056a69c09f4cb5798"
+  }
+}

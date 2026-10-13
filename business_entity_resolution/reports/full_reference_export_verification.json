@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "full_owner_exclusion_fixture": true,
+  "fitting_excludes_20_29_and_100_199_owners": true,
+  "final_excludes_100_199_owners": true,
+  "170_column_model_schema_preserved": true,
+  "active_direct_features": 134,
+  "constant_tail_never_used": true,
+  "real_context_tail_prediction_invariance": true,
+  "fixture_is_not_challenge_score": true,
+  "actual_export_numeric_roundtrip": true,
+  "actual_export_rows": 18106219,
+  "actual_fitting_rows": 17698287,
+  "actual_export_has_no_ids_or_text": true
+}

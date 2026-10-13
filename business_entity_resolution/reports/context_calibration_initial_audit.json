@@ -1,0 +1,47 @@
+{
+  "protocol": "CRC32 buckets 100\u2013104: Reference labels excluded from dictionaries, both fitting stages, and threshold selection. Their target records were also excluded from supervised fitting as negative examples. Full-population candidate generation and complete scoring context for audit references and their competing references.",
+  "strict_audit_targets": true,
+  "threshold_frozen": 0.6199999999999999,
+  "heldout": {
+    "macro_f05": 0.9832391163276072,
+    "standard_error": 0.0007899766046825598,
+    "entities": 11146,
+    "pair_precision": 0.9967702866370609,
+    "pair_recall": 0.9626481597005615,
+    "false_positive_pairs": 120,
+    "false_negative_pairs": 1437,
+    "singleton_correct_fraction": 0.9840255591054313
+  },
+  "countries": {
+    "India": {
+      "macro_f05": 0.9826040580062008,
+      "standard_error": 0.0012176500725283534,
+      "entities": 4494,
+      "pair_precision": 0.9961530808516283,
+      "pair_recall": 0.959741836539076,
+      "false_positive_pairs": 58,
+      "false_negative_pairs": 630,
+      "singleton_correct_fraction": 0.9878048780487805
+    },
+    "US": {
+      "macro_f05": 0.9836681530227966,
+      "standard_error": 0.001036980143578779,
+      "entities": 6652,
+      "pair_precision": 0.997191774617266,
+      "pair_recall": 0.9646409323927617,
+      "false_positive_pairs": 62,
+      "false_negative_pairs": 807,
+      "singleton_correct_fraction": 0.9815789473684211
+    }
+  },
+  "adaptive_thresholds": {
+    "first_match": 0.63,
+    "additional_matches": 0.74
+  },
+  "blocking": {
+    "pair_recall": 0.9870815138282387,
+    "macro_f05_ceiling": 0.9957039681777764,
+    "candidate_pairs_per_reference": 16.001345774268795
+  },
+  "entity_scores_file": "context_calibration_initial_audit.entities.tsv"
+}

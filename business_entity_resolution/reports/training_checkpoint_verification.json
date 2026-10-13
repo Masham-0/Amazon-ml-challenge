@@ -1,0 +1,10 @@
+{
+  "standard_fit_predictions_identical": true,
+  "interrupted_after_round": 15,
+  "restored_checkpoint_round": 10,
+  "resumed_to_completion": true,
+  "completed_model_reuse_identical": true,
+  "changed_inputs_rejected": true,
+  "resume_max_probability_difference": 0.0,
+  "note": "Exact resumed stochastic trajectories are not guaranteed."
+}

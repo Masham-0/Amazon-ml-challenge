@@ -1,0 +1,15 @@
+{
+  "first_model_sha256": "1ab34d67543af5c18993217f61a119c05192c0aba534a6830948dd2382934e3d",
+  "second_model_sha256": "d4c1da9dc126763f6682c3865db19468c06df480782fa850160dd7e29f6d7f13",
+  "second_weight": 0.5,
+  "combination": "sigmoid((1-w)*raw_first + w*raw_second)",
+  "trees": 1866,
+  "features": 170,
+  "blended_model_sha256": "e0b6f0540131c2abcd39a3a26632045fc0a62d25cc14e47e574ca60ea26ed84a",
+  "passed": true,
+  "supplied_record_fixture_rows": 500,
+  "maximum_raw_score_error": 4.085620730620576e-14,
+  "maximum_probability_error": 5.551115123125783e-16,
+  "fixture_only_not_challenge_score": true,
+  "api_reference": "https://lightgbm.readthedocs.io/en/stable/C-API.html#c.LGBM_BoosterMerge"
+}

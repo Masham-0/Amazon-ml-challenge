@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "normal_reproduction_has_no_private_request": true,
+  "requires_completed_measurements": true,
+  "tuning_only_selection": true,
+  "minor_improvements_preserve_baseline": true,
+  "weighted_and_blended_gain_checks": true,
+  "required_native_context_checks_before_full_test_scoring": true,
+  "baseline_snapshot_and_rollback_enabled": true,
+  "selection_changes_no_first_stage_models_or_aliases": true,
+  "test_labels_used": false,
+  "selection_fixture_cases_passed": 4,
+  "mutating_model_replacement_path_exercised": false,
+  "note": "The replacement branch must run native/context checks before test scoring; this fixture checks selection gates and the no-request return only."
+}

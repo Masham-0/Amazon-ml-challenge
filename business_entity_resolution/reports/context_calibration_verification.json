@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "outside_competitor_ownership_preserved": true,
+  "local_refinement_uses_tuning_only": true,
+  "selected_decisions_replay_on_development": true,
+  "singleton_correctness_preserved": true,
+  "constructed_fixture_only_not_challenge_score": true
+}

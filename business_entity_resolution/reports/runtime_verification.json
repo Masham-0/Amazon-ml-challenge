@@ -1,0 +1,14 @@
+{
+  "fixture_pairs": 29308,
+  "base_features": 134,
+  "ensemble_models": 3,
+  "maximum_native_probability_error": 2.9689056990633844e-08,
+  "finite_features": true,
+  "pair_alignment": true,
+  "maximum_tfidf_feature_error": 5.697598304266194e-08,
+  "maximum_copy_feature_error": 5.960464477539063e-08,
+  "maximum_collective_probability_error": 2.7669501467819657e-08,
+  "collective_features": 170,
+  "leave_query_out_aggregates": true,
+  "dictionary_feature_verified": true
+}

@@ -1,0 +1,16 @@
+{
+  "purpose": "Deadline alternative after v9 public regression",
+  "public_feedback": {
+    "v9": 0.976,
+    "v4": 0.977,
+    "scores_are_rounded": true
+  },
+  "version": "v10weighted",
+  "tuning_macro_f05": 0.9844301863998879,
+  "local_development_macro_f05": 0.981583975733191,
+  "previous_automatic_tuning_margin": 0.0005,
+  "actual_tuning_gain": 0.0003701062022076,
+  "cleared_previous_automatic_margin": false,
+  "reason_for_generating": "Evaluate the completed independent weighted model using cached test features after the selected v9 regressed publicly. No further fitting or test-label access. Preserve v4 and v9 artifacts.",
+  "public_score_unknown": true
+}

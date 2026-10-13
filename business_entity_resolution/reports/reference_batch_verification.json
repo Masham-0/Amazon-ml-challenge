@@ -1,0 +1,21 @@
+{
+  "labels_used": false,
+  "formats": {
+    "166": {
+      "all_feature_bytes_identical": true,
+      "sha256": "d47f4475515c60c30e60f16ad744062365f3ec0c9d258097e172ce1aa8e02e86"
+    },
+    "170": {
+      "all_feature_bytes_identical": true,
+      "sha256": "46674dd409140a1f4cd57e875d791eebcfc80ac5024c775ce956c4af861d5b8b"
+    }
+  },
+  "score_bytes_identical": true,
+  "pairs": 28357,
+  "references": 1040,
+  "countries": [
+    "France",
+    "India",
+    "US"
+  ]
+}

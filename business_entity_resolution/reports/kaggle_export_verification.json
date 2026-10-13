@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "reserved_target_negatives_excluded": true,
+  "audit_references_excluded": true,
+  "tuning_owned_targets_excluded_from_fitting": true,
+  "numeric_feature_roundtrip_exact": true,
+  "fixture_only_not_challenge_score": true
+}

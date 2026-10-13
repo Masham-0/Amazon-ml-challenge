@@ -1,0 +1,23 @@
+{
+  "method": "Provided files only; numeric IDs and row order are not classifier inputs",
+  "id_overlaps": {
+    "source1": 0,
+    "source2": 0,
+    "source3": 0
+  },
+  "training_sample_id_correlation": {
+    "source2": 0.0011221593452704888,
+    "source3": 0.002402460511240521
+  },
+  "identifier_adjacency_fitting_only": {
+    "fitting_entities_only": 20000,
+    "audit_or_development_labels_used": false,
+    "within_source_sibling_gaps": 34353,
+    "gap_median": 213973008.0,
+    "fraction_gap_at_most_1": 0.0,
+    "fraction_gap_at_most_10": 0.0,
+    "fraction_gap_at_most_100": 0.0,
+    "cross_source_median_identifier_correlation": -0.006187850669842152,
+    "production_identifier_features_added": false
+  }
+}

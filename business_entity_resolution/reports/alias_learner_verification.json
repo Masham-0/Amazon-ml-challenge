@@ -1,0 +1,6 @@
+{
+  "fitting_reference_groups": "0-19,30-99,200-399",
+  "whole_name_mappings": 6197,
+  "memory_bounded_learner_matches_original_byte_for_byte": true,
+  "sha256": "fc84258513a92ce7db3b14eab0ebf7362cb9499bb743231b68ddac5c673c3630"
+}

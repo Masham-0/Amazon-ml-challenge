@@ -1,0 +1,12 @@
+{
+  "supplied_fixture_pairs": 28357,
+  "countries": [
+    "France",
+    "India",
+    "US"
+  ],
+  "feature_width": 170,
+  "native_and_cached_predictions_byte_identical": true,
+  "finite_predictions": true,
+  "complete_result_reuse_pass": true
+}

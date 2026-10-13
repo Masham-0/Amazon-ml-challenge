@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "labels_used": false,
+  "full_context_pairs": 19365702,
+  "required_query_pairs": 1148429,
+  "primary_references": 11146,
+  "all_primary_candidates_retained": true,
+  "all_primary_final_decisions_identical": true,
+  "actual_supplied_feature_prediction_rows": 5000,
+  "maximum_probability_error": 0.0,
+  "prediction_threads": 1,
+  "fixture_is_not_accuracy_measurement": true
+}
